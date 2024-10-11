@@ -1,10 +1,29 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-void method1(vector<int> & arr){
+void  methodx(vector<int>  arr){
     int n = arr.size();
-    vector<int>frequency;
-    
+    unordered_map<int,int>mpp;
+    for(int i =0;i<n;i++){
+        mpp[arr[i]]++;
+    }
+
+    int x = n/2;
+    for(auto it : mpp){
+        if(it.second>x) cout<<it.first;
+    }
+
+}
+
+void votingalgo(vector<int> &arr){
+    int freq =0 , ans =0;
+    for(int i = 0 ; i<arr.size();i++){
+        if(freq==0) ans=arr[i];
+        if(ans==arr[i]) freq++;
+        else freq--;
+    }
+
+    cout<<ans;
 }
 
 int main(){
@@ -14,6 +33,7 @@ int main(){
         cin>>arr[i];
     }
 
-   method1(arr);
+   methodx(arr);
+   votingalgo(arr);
     
 }
