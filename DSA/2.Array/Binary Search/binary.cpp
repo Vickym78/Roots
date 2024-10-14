@@ -19,6 +19,5 @@ int main(){
         cin>>arr[i];
     }
     int target ; cin>>target; // consider target always exist
-
     binarysearch(arr , target);
 }
