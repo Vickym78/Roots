@@ -27,3 +27,14 @@ button{
     color: rgb(15, 99, 173);
    
 }
+
+.box{
+    border: 1px solid black;
+    width: 200px;
+    height: 180px;
+    margin-bottom: 10px;
+    text-align: center;
+    background-color: aqua;
+    margin-left: 10%;
+   text-transform: lowercase;
+}
