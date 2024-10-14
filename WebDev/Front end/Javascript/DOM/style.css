@@ -1,0 +1,29 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+body{
+    background-color: antiquewhite;
+}
+h1{
+    background-color: red;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+   text-align: center;
+    
+}
+
+h4{
+    color: rgb(27, 223, 223);
+}
+button{
+   
+    color: rgb(15, 99, 173);
+   
+}
