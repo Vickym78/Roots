@@ -11,6 +11,8 @@ we want to store it in once ,so we used user defined dataset.
 3)Protected: -
 
 
-Class : - It's a user defined data type and it's a blueprint of object
+Class : - It's a user defined data type and it's a blueprint of object eg: - Animal class
+ 
+Object : - it's an real world entity like me and you , car , pen
 
 
