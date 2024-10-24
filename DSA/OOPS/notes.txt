@@ -12,7 +12,11 @@ we want to store it in once ,so we used user defined dataset.
 
 
 Class : - It's a user defined data type and it's a blueprint of object eg: - Animal class
+
  
 Object : - it's an real world entity like me and you , car , pen
+
+class not exist in real world , but object exists
+Student is class but rohan is object
 
 
