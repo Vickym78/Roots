@@ -1,0 +1,15 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+body{
+    background-color: aliceblue;
+    background-image:url(https://c4.wallpaperflare.com/wallpaper/755/73/273/anime-anime-girls-landscape-kimi-no-na-wa-wallpaper-preview.jpg);
+    background-attachment: fixed;
+}
