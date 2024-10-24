@@ -6,3 +6,22 @@ h1{
     text-align: center;
     border: 1px solid black;  
 }
+
+#mar{
+
+    /* this is id selector*/
+    color: rgb(29, 147, 108);
+    text-decoration: solid;
+    text-transform: uppercase;
+
+}
+
+.grp{
+
+/* this is class  selector */
+border: solid ;
+text-align: center;
+text-shadow: 0cqmax;
+background-color: bisque;
+
+}
