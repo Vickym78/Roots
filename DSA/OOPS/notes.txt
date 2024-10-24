@@ -7,5 +7,10 @@ we want to store it in once ,so we used user defined dataset.
 
 # Next thing is Access modifier 
 1) Public :- Anyone can access it 
-2) Private: - Only some allowed class can access this
+2) Private:- Only some allowed class can access this
 3)Protected: -
+
+
+Class : - It's a user defined data type and it's a blueprint of object
+
+
