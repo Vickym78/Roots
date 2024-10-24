@@ -22,6 +22,7 @@ Student is class but rohan is object
 class have't any size; 
 but empty class have size 1
 
+Size in class done by padding concept by cycles , and diffrent system diffrent size can be answer
 
 
 
