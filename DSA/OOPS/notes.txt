@@ -14,9 +14,14 @@ we want to store it in once ,so we used user defined dataset.
 Class : - It's a user defined data type and it's a blueprint of object eg: - Animal class
 
  
-Object : - it's an real world entity like me and you , car , pen
+Object : - it's an real world entity like me and you , pencil , pen, dog etc...
 
 class not exist in real world , but object exists
 Student is class but rohan is object
+
+class have't any size; 
+but empty class have size 1
+
+
 
 
