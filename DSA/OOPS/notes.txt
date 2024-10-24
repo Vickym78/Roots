@@ -1,0 +1,11 @@
+OOPS IS A Approach which is diffrent from procedual Approach.
+
+this is done by user_defined data type
+eg: - for a class datset we need name , age ,roll 
+we want to store it in once ,so we used user defined dataset.
+
+
+# Next thing is Access modifier 
+1) Public :- Anyone can access it 
+2) Private: - Only some allowed class can access this
+3)Protected: -
