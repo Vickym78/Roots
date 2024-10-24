@@ -1,0 +1,8 @@
+p{
+    background-color: aqua;
+}
+/* tag selector*/
+h1{ 
+    text-align: center;
+    border: 1px solid black;  
+}
